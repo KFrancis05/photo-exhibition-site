@@ -39,7 +39,7 @@ header{
 
 .logo{
     font-size: 3rem;
-    color: #ede980;
+    color: #ede981;
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
@@ -60,8 +60,8 @@ nav a{
 
 nav a:hover,
 nav a.active{
-    color: #ede980;
-    border-bottom: 3px solid #ede980;
+    color: #ede981;
+    border-bottom: 3px solid #ede981;
 }
 
 @media(max-width:995px){
@@ -71,8 +71,8 @@ nav a.active{
         top: 0;
         right: 0;
         width: 40%;
-        border-left: 3px solid #ede980;
-        border-bottom: 3px solid #ede980;
+        border-left: 3px solid #ede981;
+        border-bottom: 3px solid #ede981;
         border-bottom-left-radius: 2rem;
         padding: 1rem solid;
         background-color: #161616;
@@ -93,7 +93,7 @@ nav a.active{
     nav a.active{
         padding: 1rem;
         border-radius: 0.5rem;
-        border-bottom: 0.5rem solid #ede980;
+        border-bottom: 0.5rem solid #ede981;
     }
 }
 
@@ -118,7 +118,7 @@ section{
 }
 
 span{
-    color: #ede980;
+    color: #ede981;
 }
 
 .home-content h3{
@@ -146,7 +146,7 @@ span{
     position: relative;
     width: 32vw;
     border-radius: 5%;
-    box-shadow: 0 0 25px solid #ede980;
+    box-shadow: 0 0 25px solid #ede981;
     cursor: pointer;
     transition: 0.2s linear;
 }
@@ -163,7 +163,7 @@ span{
     width: 4rem;
     height: 4rem;
     background-color: transparent;
-    border: 0.2rem solid #ede980;
+    border: 0.2rem solid #ede981;
     font-size: 2rem;
     border-radius: 50%;
     margin: 3rem 1.5rem 3rem 0;
@@ -174,8 +174,8 @@ span{
 .social-icons a:hover{
     color: rgb(47, 47, 47);
     transform: scale(1.3) translateY(-5px);
-    background-color: #ede980;
-    box-shadow: 0  0 25px #ede980;
+    background-color: #ede981;
+    box-shadow: 0  0 25px #ede981;
 }
 
 .btn{
@@ -187,16 +187,16 @@ span{
     color: #ffffff;
     letter-spacing: 0.3rem;
     font-weight: 600;
-    border: 2px solid #ede980;
+    border: 2px solid #ede981;
     transition: 0.3s ease;
     cursor: pointer;
 }
 
 .btn:hover{
     transform: scale3d(1.03);
-    background-color: #ede980;
+    background-color: #ede981;
     color: rgb(47, 47, 47);
-    box-shadow: 0 0 25px #ede980;
+    box-shadow: 0 0 25px #ede981;
 }
 
 .typing-text{
@@ -211,7 +211,7 @@ span{
 
 .typing-text span::before{
     content: "Software Developer";
-    color: #ede980;
+    color: #ede981;
     animation: words 30s infinite;
 }
 
@@ -228,7 +228,7 @@ span{
 
 @keyframes cursor{
     to{
-        border-left: 3px solid #ede980;
+        border-left: 3px solid #ede981;
     }
 }
 
